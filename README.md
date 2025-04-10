@@ -15,6 +15,7 @@
 ## Get in Touch 📫
 
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out to me through the following channels:
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1tweezy) 
 
 
