@@ -7,10 +7,15 @@
 ## About Me 🙋‍♂️
 
 - 🌐 Web Design and Development
-- 🐍 Python, Flask
+- 🐍 Python
 - 💻 HTML5, CSS3, JavaScript
+- ☕ Java
+- 🎮 Lua
 - ⚙️ jQuery, Node.js
-- lua
+- 🚀 React.js, Vue.js
+- 📱 React Native
+- 🗄️ SQL
+
 
 ## Get in Touch 📫
 
@@ -18,5 +23,3 @@ If you have any questions, suggestions, or would like to collaborate, feel free 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1tweezy) 
 
-
-Thank you for visiting my GitHub profile! I look forward to sharing knowledge and collaborating with others.
