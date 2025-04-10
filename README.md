@@ -1,21 +1,21 @@
+[![GitHub followers](https://img.shields.io/github/followers/tweezylive?style=social)](https://github.com/tweezylive)
+[![GitHub stars](https://img.shields.io/github/stars/tweezylive?style=social)](https://github.com/tweezylive)
+  
 # Hello!, I'm Tweezy, 👋:
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1tweezy) 
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## About Me 🙋‍♂️
 
----
-[![](https://visitcount.itsvg.in/api?id=tweezy&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🌐 Web Design and Development
+- 🐍 Python, Flask
+- 💻 HTML5, CSS3, JavaScript
+- ⚙️ jQuery, Node.js
+- lua
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## Get in Touch 📫
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+If you have any questions, suggestions, or would like to collaborate, feel free to reach out to me through the following channels:
+(https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1tweezy)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Thank you for visiting my GitHub profile! I look forward to sharing knowledge and collaborating with others.
