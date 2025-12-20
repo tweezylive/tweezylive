@@ -17,12 +17,8 @@
   <br />
   <a href="https://discord.com/users/880402179121377280"><img src="https://img.shields.io/badge/Discord-Tweezy%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
   <br />
-  <!--<br />-->
-  <!--<b><i>💀 Banned from Discord 💀</i></b>-->
-  <!--432260852486242314-->
 </p>
 
----
 
 <a name="me"></a>
 
