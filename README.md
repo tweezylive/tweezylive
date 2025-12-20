@@ -2,7 +2,7 @@
 
 <code>Tweezy@GitHub:~$ cat README.md</code>
 
-[Me](#me) • [About](#about-me) • [Milestones](#milestones) • [Stats](#github-stats) • [Contact](#wanna-chat)
+[Me](#me) • [About](#about-me) • [Milestones](#milestones) • [Stats](#github-stats)
 
 <h1 align="center">💻 Hey, I'm Tweezy 💻</h1>
 <h3 align="center">🔥 Developer and Automation Addict from Germany 🔥</h3>
