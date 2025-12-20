@@ -12,15 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/tweezylive" target="_blank"><img src="https://img.shields.io/badge/Telegram-@tweezylive-blue?style=for-the-badge&logo=telegram" /></a>
   <a href="https://x.com/tweezylive_1337"><img src="https://img.shields.io/badge/Twitter-@tweezylive_1337-blue?style=for-the-badge&logo=x" /></a>
-  <a href="mailto:contact@tweezylive.dev"><img src="https://img.shields.io/badge/Email-contact@tweezylive.dev-informational?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:tweezy@gmail.com"><img src="https://img.shields.io/badge/Email-contact@tweezylive.dev-informational?style=for-the-badge&logo=gmail" /></a>
   <br />
-  <a href="https://discord.com/users/1405599489531576411"><img src="https://img.shields.io/badge/Discord-tweezylive%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
-  <a href="https://discord.gg/KkxjCe8Fg2"><img src="https://img.shields.io/badge/Discord-Server-blue?style=for-the-badge&logo=discord" /></a>
+  <a href="https://discord.com/users/880402179121377280"><img src="https://img.shields.io/badge/Discord-Tweezy%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
   <br />
   <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1405599489531576411?borderRadius=5px&idleMessage=Idle&bg=a&animated=true;" alt="RPC" />
+  <img src="https://lanyard.cnrad.dev/api/880402179121377280?borderRadius=5px&idleMessage=Idle&bg=a&animated=true;" alt="RPC" />
   <!--<br />-->
   <!--<b><i>💀 Banned from Discord 💀</i></b>-->
   <!--432260852486242314-->
