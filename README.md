@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:tweezy@gmail.com"><img src="https://img.shields.io/badge/Email-contact@tweezylive.dev-informational?style=for-the-badge&logo=gmail" /></a>
+  <!-- <a href="mailto:tweezy@gmail.com"><img src="https://img.shields.io/badge/Email-contact@tweezylive.dev-informational?style=for-the-badge&logo=gmail" /></a> -->
   <br />
   <a href="https://discord.com/users/880402179121377280"><img src="https://img.shields.io/badge/Discord-Tweezy%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
   <br />
