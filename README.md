@@ -26,7 +26,7 @@
 - 👤 **Age:** 17
 - 🗺️ **Location:** Germany  
 - 🗣️ **Languages:** German, English
-- 💻 **Programming in:** Mainly Javascript
+- 💻 **Programming in:** Mainly Python
 - ⭐ **How everything started:** I've been passionate about tech since I was a very young child, and I began coding at the age of 13-14.
 
 --
