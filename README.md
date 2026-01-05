@@ -67,7 +67,7 @@
 - [x] Get into Web-Development
 - [x] Dive into Fullstack Development
 - [x] Get into Malware Analysis
-- [x] Advance skills in Cybersecurity
+- [ ] Advance skills in Cybersecurity
 - [ ] Advance skills in C#
 
 ---
