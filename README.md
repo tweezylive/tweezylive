@@ -7,21 +7,28 @@
 <h1 align="center">💻 Hey, I'm Tweezy 💻</h1>
 <h3 align="center">🔥 Developer and Automation Addict from Germany 🔥</h3>
 
+<!-- ====== Profil Views ====== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tweezylivedev&label=Profile%20Views&color=blue&style=flat-square" alt="tweezylivedev" />
+  <img src="https://komarev.com/ghpvc/?username=tweezylivedev&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
+<!-- ====== Discord Badge ====== -->
 <p align="center">
-  <!-- <a href="mailto:tweezy@gmail.com"><img src="https://img.shields.io/badge/Email-contact@tweezylive.dev-informational?style=for-the-badge&logo=gmail" /></a> -->
-  <br />
-  <a href="https://discord.com/users/880402179121377280"><img src="https://img.shields.io/badge/Discord-Tweezy%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
-  <br />
-    <br />
-  <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/880402179121377280?borderRadius=5px&idleMessage=Idle&bg=a&animated=true;" alt="RPC" />
+  <a href="https://discord.com/users/880402179121377280">
+    <img src="https://img.shields.io/badge/Discord-Tweezy%20%3C3-blue?style=for-the-badge&logo=discord" alt="Discord Badge" />
+  </a>
 </p>
 
-<a name="me"></a>
+<!-- ====== Discord RPC Card ====== -->
+<p align="center">
+  <a href="https://discord.com/users/880402179121377280">
+    <img
+      src="https://lanyard.cnrad.dev/api/880402179121377280?borderRadius=8px&bg=0d1117&idleMessage=Idle&animated=true"
+      alt="Discord Presence"
+    />
+  </a>
+</p>
+
 
 ## 👤 Me
 
