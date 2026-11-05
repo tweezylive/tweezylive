@@ -23,16 +23,6 @@
   <img src="https://komarev.com/ghpvc/?username=tweezylivedev&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- ====== Discord RPC Card ====== -->
-<p align="center">
-  <a href="https://discord.com/users/880402179121377280">
-    <img
-      src="https://lanyard.cnrad.dev/api/880402179121377280?borderRadius=8px&bg=0d1117&idleMessage=Idle&animated=true"
-      alt="Discord Presence"
-    />
-  </a>
-</p>
-
 ---
 
 <a name="about-me"></a>
