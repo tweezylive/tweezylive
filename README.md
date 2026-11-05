@@ -5,8 +5,8 @@
 [About](#about-me) • [Knowledge](#knowledge-areas) • [Featured](#featured-work) • [Tech Stack](#languages-tools) • [Milestones](#milestones) • [Stats](#github-stats) • [Contact](#contact)
 
 <h1 align="center">💻 Hey, I'm Tweezy 💻</h1>
-<h3 align="center">Fullstack Developer · Automation & LLM Integration · Security</h3>
-<p align="center"><sub>Building web applications, automations and AI-powered tools from Germany.</sub></p>
+<h3 align="center">17-year-old Developer & Cybersecurity Enthusiast</h3>
+<p align="center"><sub>Building modern apps, exploring security, and constantly learning.</sub></p>
 
 <!-- ====== Website ====== -->
 <p align="center">
